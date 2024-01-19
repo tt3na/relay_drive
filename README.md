@@ -5,7 +5,7 @@
 トランジスタを使ったリレードライブ回路を使用  
 GPIO18、+5V、GNDピンを使用します。  
 
-<img alt="回路図" width="30%" src="schematic.png" />
+<img alt="回路図" width="320px" src="schematic.png" />
 
 * トランジスタは2SC1815を使用
   - hfeは200で計算してます。
