@@ -5,7 +5,7 @@ raspberry piを使ったリレードライブ回路図とGPIOからリレーを�
 トランジスタを使ったリレードライブ回路を使用  
 GPIO18、+5V、GNDピンを使用します。  
 
-![回路図](schematic.png)
+<img alt="回路図" width="50%" src="schematic.png" />
 
 * トランジスタは2SC1815を使用
   - hfeは200で計算してます。
